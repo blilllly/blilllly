@@ -4,6 +4,6 @@
 const Billy = {
   pronouns: "he" | "him",
   code: [ HTML, CSS, Typescript, Javascript ]
-  tools: [ Angular, Boostrap, Node ]
+  tools: [ Angular, Tailwind, Boostrap, Node, Git ]
 }
 ```
